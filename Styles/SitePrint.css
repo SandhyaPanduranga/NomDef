@@ -1,0 +1,21 @@
+﻿/* DEFAULTS
+----------------------------------------------------------*/
+
+body   
+{
+    font-size: .60em;
+    font-family: "Helvetica Neue", "Lucida Grande", "Segoe UI", Arial, Helvetica, Verdana, sans-serif;
+    margin: 0px;
+    padding: 0px;
+    color:Black;
+}
+
+table
+{
+border: 0px solid black;
+}
+
+.tableTitle
+{
+    font-weight:bold;
+}

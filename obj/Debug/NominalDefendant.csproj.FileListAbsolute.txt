@@ -1,0 +1,6 @@
+C:\DEV\NominalDefendant\NominalDefendant\bin\NominalDefendant.dll.config
+C:\DEV\NominalDefendant\NominalDefendant\bin\NominalDefendant.dll
+C:\DEV\NominalDefendant\NominalDefendant\bin\NominalDefendant.pdb
+C:\DEV\NominalDefendant\NominalDefendant\obj\Debug\NominalDefendant.dll
+C:\DEV\NominalDefendant\NominalDefendant\obj\Debug\NominalDefendant.pdb
+C:\DEV\NominalDefendant\NominalDefendant\obj\Debug\NominalDefendant.csprojResolveAssemblyReference.cache
